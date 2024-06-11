@@ -1,0 +1,103 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "enrollment",
+      "patterns": [
+        "Enrollment",
+        "Enroll",
+        "how to enroll?",
+        "enrolling",
+        "Enrollment Process",
+        "How do I enroll",
+        "how"
+      ],
+      "responses": [
+        "Enrolling your child is easy! You can start by filling out our online enrollment form on our website. Alternatively, you can visit our school office during office hours for in-person enrollment assistance.",
+        "Getting your kid enrolled is simple! You can begin by completing our website's online enrollment form. As an alternative, you can get in-person enrollment assistance by stopping by our school office during business hours.",
+        "It's simple to enroll your child! The first step is to complete our website's online enrollment form. As an alternative, you can come in person for enrollment assistance during office hours at our school office."
+      ]
+    },
+    {
+      "tag": "requirements",
+      "patterns": [
+        "What documents are required for enrollment?",
+        "Papers needed for enrollment",
+        "documents for enrollment",
+        "required documents",
+        "what documents need for enrollment",
+        "needed requirements",
+        "need to enroll",
+        "need for enrollment"
+      ],
+      "responses": [
+        "To enroll your child, you'll need to provide a few documents including proof of residence, your child's birth certificate, immunization records, and any relevant academic records if applicable.",
+        "A few documents are required for enrollment, such as evidence of residency, the child's birth certificate, vaccination records, and any pertinent academic records, if any.",
+        "You'll need to provide a few paperwork to enroll your child, such as evidence of residency, the child's birth certificate, vaccination records, and any pertinent school records, if any."
+      ]
+    },
+    {
+      "tag": "deadline",
+      "patterns": [
+        "deadline",
+        "submission",
+        "submission day",
+        "time",
+        "date",
+        "when is the deadline",
+        "enrollment day",
+        "enrollment deadline",
+        "when"
+      ],
+      "responses": [
+        "Our enrollment deadlines vary depending on the grade level and program. We recommend checking our website or contacting our enrollment office for specific deadlines.",
+        "Our enrollment dates change based on the program and grade level. For precise dates, we advise visiting our website or getting in touch with our enrollment office.",
+        "The enrollment deadlines for each program and grade level are different. Please visit our website or get in touch with our enrollment office to find out the exact dates."
+      ]
+    },
+    {
+      "tag": "tour",
+      "patterns": [
+        "tour",
+        "school tour",
+        "school visit"
+      ],
+      "responses": [
+        "Absolutely! We encourage all prospective families to schedule a tour of our campus to get a firsthand look at our facilities and programs. You can schedule a tour by contacting our admissions office.",
+        "Of course! All potential families are welcome to arrange a tour of our campus to have a close-up look at our offerings. Please get in touch with our admissions office to arrange a tour.",
+        "Sure! To see our facilities and programs up close, we invite all interested families to arrange a campus tour. Reach out to our admissions staff to arrange a tour."
+      ]
+    },
+    {
+      "tag": "scholarships",
+      "patterns": [
+        "scholarships",
+        "financial aids",
+        "offer scholarships",
+        "offer",
+        "offer financial aids",
+        "have scholarships"
+      ],
+      "responses": [
+        "Yes, we offer financial aid and scholarships to eligible students. Our financial aid office can provide more information on the application process and eligibility criteria.",
+        "Yes, we provide scholarships and financial aid to deserving students. Further details about the qualifying requirements and application process can be obtained from our financial aid office.",
+        "Yes, to qualified students, we provide financial aid and scholarships. For additional details on the qualifying requirements and application procedure, contact our financial aid office."
+      ]
+    }
+  ]
+}
